@@ -1,5 +1,8 @@
 @import 'utils/_reset.css';
 
+/*import cayman*/
+@import 'cayman/jekyll-theme-cayman.css';
+
 /*import the theme you want to use*/
 @import "themes/oui-light-theme.css" screen;
 @import "themes/oui-dark-theme.css" screen and (prefers-color-scheme: dark); /*Auto load dark theme*/
