@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 节点订阅 β
 ---
 
 <span id="top"></span>
