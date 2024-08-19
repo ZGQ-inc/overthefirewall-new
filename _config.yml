@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
+theme: null
 title: 节点订阅 β
 
 
